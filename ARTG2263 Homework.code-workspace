@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Downloads/sample-website-homework-grid"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sample-website-homework-grid"
+	}
+}
